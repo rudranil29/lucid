@@ -91,6 +91,12 @@ ul.nav{
 {
 	line-height: 0.5
 }
+.fa-mobile{
+	padding-left:6px;
+}
+.fa-bolt{
+	padding-left:6px;
+}
 .banner{
 	background:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(../img/iphone7.jpg);
 	background-repeat: no-repeat;
@@ -861,4 +867,10 @@ src:url("../Source_Sans_Pro/SourceSansPro-Semibold.ttf");
   	.hh{
   		height: 140px;
   	}
+ 	.fa-mobile{
+	padding-left:3px;
+	}
+	.fa-bolt{
+	padding-left:3px;
+	}
 }
